@@ -1,2 +1,0 @@
-# datasciencecoursera
-Pair's review
